@@ -25,7 +25,7 @@ import uvloop
 from subprocess import getstatusoutput
 
 bot = Client("bot",
-             bot_token= "7031030184:AAHmGa2u2CR6hQgDrHxbUcKeaIkw_qrWlHA",
+             bot_token= "7160975009:AAHvheXo-Cqfu5gSpftzpZbLjXHLu3SUuj0",
              api_id= 28528007,
              api_hash= "38464da16c80310cabc8d13952419cf3"
 )
